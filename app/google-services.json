@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47670945737",
+    "firebase_url": "https://saidpurhelpline-200.firebaseio.com",
+    "project_id": "saidpurhelpline-200",
+    "storage_bucket": "saidpurhelpline-200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47670945737:android:62977d5e43e142d223ea18",
+        "android_client_info": {
+          "package_name": "saidpurcity.mb.example.com.saidpurhelpline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47670945737-sc3aqu5b0thu9b9hnmg83fno44p94j6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saidpurcity.mb.example.com.saidpurhelpline",
+            "certificate_hash": "94cfa57fea6edbc6a843e96b9ec2600acdf3c25e"
+          }
+        },
+        {
+          "client_id": "47670945737-smp63s4l1co93g2dpgg80ekh9a37i187.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjrs2NX0I7l_1yX3qurzuviGiahi_z00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47670945737-smp63s4l1co93g2dpgg80ekh9a37i187.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
